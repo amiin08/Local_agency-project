@@ -14,4 +14,4 @@ Responsive local agency website built with modern frontend tools to showcase ser
 -JavaScript
 
 ## Live Demo
-https://amiin08.github.io/local_agency-project/
+https://amiin08.github.io/Local_agency-project/
